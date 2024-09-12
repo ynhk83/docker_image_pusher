@@ -1,3 +1,4 @@
 rustdesk/rustdesk-server:latest
 rustdesk/rustdesk-server-s6:latest-amd64
 nyanmisaka/jellyfin
+linzeyi/hivision_idphotos
