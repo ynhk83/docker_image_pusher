@@ -4,4 +4,4 @@ nyanmisaka/jellyfin
 linzeyi/hivision_idphotos
 tzishue/cloud-printer:latest
 hanxi/cups-web:latest
-openprinting/cups:latest
+OpenPrinting/cups:latest
